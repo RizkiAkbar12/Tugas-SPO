@@ -66,4 +66,5 @@ Ini merupakan hasil dari Signal Filter:
 ---
 
 ## Commit Logs
+![commit logs](https://github.com/RizkiAkbar12/Tugas-SPO/assets/108193209/1f07042f-ea18-4806-9e82-749d93425bd4)
 
