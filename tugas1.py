@@ -1,7 +1,7 @@
 import numpy as np
 import scipy.signal
 
-# ID
+# Identitas diri
 print("Nama: M Rizki Akbar")
 print("NRP: 5009211128")
 
@@ -21,9 +21,9 @@ from matplotlib import pyplot as plt
 plt.figure(figsize=[6.4, 2.4])
 
 plt.plot(ts, yraw, label="Raw signal")
-plt.plot(ts, y_lfilter, alpha=0.8, lw=3, label="SciPy lfilter")
+plt.plot(ts, y_lfilter, alpha=0.8, lw=3, label="Signal filter")
 
 plt.xlabel("Time / s")
 plt.ylabel("Amplitude")
 plt.legend(loc="lower center", bbox_to_anchor=[0.5, 1],
-           ncol=2, fontsize="smaller")
+                            ncol=2, fontsize="smaller")
