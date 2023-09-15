@@ -19,6 +19,9 @@ ini merupakan beberapa rangkuman dari tugas yang saya kerjakan.
 ## A. Nama dan NRP
 
 ![source code identitas](https://github.com/RizkiAkbar12/Tugas-SPO/assets/108193209/b6157fc4-724a-4880-983a-21cd0c3461b3)
+![identitas full](https://github.com/RizkiAkbar12/Tugas-SPO/assets/108193209/d94b9645-5c43-4459-ad42-bf5d44cd0d2e)
+
+
 ```py
 print("Nama: M Rizki Akbar")
 print("NRP: 5009211128")
@@ -62,6 +65,9 @@ plt.legend(loc="lower center", bbox_to_anchor=[0.5, 1],
 Ini merupakan hasil dari Signal Filter:
 
 ![hasil filter](https://github.com/RizkiAkbar12/Tugas-SPO/assets/108193209/a30f44fd-de0d-464f-b446-e03f049391cb)
+
+![hasil filter full](https://github.com/RizkiAkbar12/Tugas-SPO/assets/108193209/8ea75572-9143-4532-bd78-2e27982f0ca1)
+
 
 ---
 
